@@ -1,0 +1,12 @@
+<map id="comp.h" name="comp.h">
+<area shape="rect" id="node2" href="$visibility__begin_8h_source.html" title="odp/visibility_begin.h" alt="" coords="397,453,539,480"/>
+<area shape="rect" id="node3" href="$support_8h.html" title="ODP support API &#45; platform specific header. " alt="" coords="868,80,991,107"/>
+<area shape="rect" id="node5" href="$visibility__end_8h_source.html" title="odp/visibility_end.h" alt="" coords="624,453,757,480"/>
+<area shape="rect" id="node6" href="$api_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="529,80,647,107"/>
+<area shape="rect" id="node4" href="$spec_2support_8h.html" title="ODP support API. " alt="" coords="728,379,881,405"/>
+<area shape="rect" id="node7" href="$api_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="155,304,289,331"/>
+<area shape="rect" id="node16" href="$api_2spec_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="250,155,400,181"/>
+<area shape="rect" id="node9" href="$api_2spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="325,379,493,405"/>
+<area shape="rect" id="node17" href="$api_2time_8h.html" title="ODP time. " alt="" coords="299,229,403,256"/>
+<area shape="rect" id="node19" href="$api_2spec_2time_8h.html" title="ODP time. " alt="" coords="517,379,652,405"/>
+</map>
